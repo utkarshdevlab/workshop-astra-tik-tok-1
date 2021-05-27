@@ -7,14 +7,15 @@ assignees: HadesArchitect
 
 ---
 
-**Name:** <NAME>
-**Email:** <email>
-**Linkedin Profile:** <LINK>
+**Name:** Utkarsh Pandey
+**Email:** utkarsh.frankly@gmail.com
+**Linkedin Profile:** https://www.linkedin.com/in/heyutkarsh/
 
 Attach the homework step I screenshots below:
 -----------------------------------------
 
-<SCREENSHOTS>
+![image](https://user-images.githubusercontent.com/48464878/119792606-738ec980-bef3-11eb-9dc0-c97b5c811abf.png)
+
   
 Attach the homework step II screenshots below:
 -----------------------------------------
